@@ -1,0 +1,28 @@
+It was easier to narrow down on the lines where the error could have been introduced.
+
+Having easy access to the entire history of a file lets me capture errors faster or rollback changes easily.
+
+
+Pros 
+
+You know when to commit and what to commit. Not too many changes.
+
+
+Cons 
+
+Commits can be too big or too small.
+
+
+-----------
+
+Multi File Commits 
+
+Because projects typically contain more than a single file.
+
+
+
+---------------
+
+git log is used to view the log of all commits
+
+From there we can git diff with the commit ids to figure out the history of diffs between commits
